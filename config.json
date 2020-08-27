@@ -1,5 +1,9 @@
 {
   "main_title": "OPENING PROCEDURES",
+  "axises": {
+    "a": 0,
+    "b": 0
+  },
   "questions": [
     {
       "title": "Любите ли вы Атамбаева:",
