@@ -16,7 +16,7 @@
     [{"c": 2},{"c": 1},{"c": -1},{"c": -2}],
     [{"c": -2},{"c": -1},{"c": 1},{"c": 2}]
   ],
-  "answer_title_values": ["firstType", "firstType", "firstType"],
+  "answer_title_values": ["firstType"],
   "answer_values": [["Кaатегорически не согласен/не согласна", "Не согласен / не согласна", "Согласен / согласна", "Абсолютно согласен / согласна"]],
   "questions": [
     {
