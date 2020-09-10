@@ -542,6 +542,7 @@
       "axis": "l++--"
     }
   ],
+  "questions_on_page": 30,
   "gateway": "www.blablabla.kg",
   "compass_compare": {
     "position": [
