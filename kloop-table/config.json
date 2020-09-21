@@ -1,0 +1,6 @@
+{
+  "fields": [{"title": "Name", "field": "name", "editable": "never"},
+    {"title": "City/Distric", "field": "distric", "lookup": { "bishkek":"Бишкек",  "chui": "Чуй",  "karabalta": "Кара-Балта"}},
+    {"title": "Role", "field": "role", "lookup": { "independent":"independent",  "mobile": "mobile",  "stationary": "stationary"}}
+  ]
+}
