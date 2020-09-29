@@ -866,5 +866,6 @@
     ],
     "parties_image_name": ["mekenchil", "republic", "reforma", "ordo", "chonkzt", "mekenimKr"]
   },
+  "compass_url": "",
   "partyColor": ["#3B93EA", "#F7C906", "#00405E", "#552E83", "#010667", "#009749"]
 }
