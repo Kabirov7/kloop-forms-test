@@ -308,12 +308,13 @@
       [-0.55, -0.42, -0.91, -1.06, -1.04, -1.05, -0.29, -0.33, 0.43, -1.10, -0.50, -0.09]
     ],
     "parties_image_name": ["mekenchil", "republic", "reforma", "ordo", "chonkzt", "mekenimKr", "atameken", "birbol", "zamandash"],
-    "about_parties": ["https://kloop.kg/blog/2020/09/26/titulnaya-natsiya-ochishhenie-ot-korruptsionerov-i-dostupnoe-zhile-chto-izvestno-o-mekenchil-i-ee-kandidatah/",
+    "about_parties": [
+      "https://kloop.kg/blog/2020/09/26/titulnaya-natsiya-ochishhenie-ot-korruptsionerov-i-dostupnoe-zhile-chto-izvestno-o-mekenchil-i-ee-kandidatah/",
     "https://kloop.kg/blog/2020/09/28/respublika-bez-babanova-chto-predlagaet-partiya-svoim-izbiratelyam/",
     "https://www.instagram.com/p/CFuGhQ8jZZd/",
     "https://kloop.kg/blog/2020/09/26/smi-na-pozitive-i-tsenzura-chto-predlagaet-partiya-ordo-svoim-izbiratelyam/",
     "https://kloop.kg/blog/2020/09/25/svyashhennaya-vojna-chekista-i-prokurora-protiv-korruptsii-s-chem-partiya-chon-kazat-idet-na-vybory/",
-    "https://kloop.kg/blog/2020/10/02/massovye-draki-vliyatelnyj-klan-ugnannaya-partiya-rasskazyvaem-o-mekenim-kyrgyzstan/",
+    "https://ky.kloop.asia/2020/10/02/massalyk-mushtash-taasirl-klan-mekenim-kyrgyzstan-partiyasy-zh-n-nd-ajtyp-berebiz/",
     "https://www.instagram.com/p/CFw6S6XDIWm/",
     "https://kloop.kg/blog/2020/09/25/tualetnaya-revolyutsiya-i-svyaz-altynbeka-sulajmanova-s-sajmaiti-chto-izvestno-o-partii-bir-bol/",
     "https://www.instagram.com/p/CFtt9lFDs3G/"
